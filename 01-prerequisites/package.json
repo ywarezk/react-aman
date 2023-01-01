@@ -16,6 +16,6 @@
     "karma": "^4.4.1",
     "mocha": "^7.1.0",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.0"
+    "webpack": "^5.75.0"
   }
 }
